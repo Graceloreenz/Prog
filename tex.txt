@@ -1,1 +1,1 @@
-HELLO WORLD Ctr + S
+WORLD Ctr + S
